@@ -66,12 +66,14 @@ void main(void)
 
     // Disable the Peripheral Interrupts
     //INTERRUPT_PeripheralInterruptDisable();
-
+    
     while (1)
     {
         // Add your application code
         UART_Demo_Command_INT();
     }
+    
+    // End of mains
 }
 /**
  End of File
