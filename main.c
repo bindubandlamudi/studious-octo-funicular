@@ -3,6 +3,8 @@
 
   Company:
     Microchip Technology Inc.
+ * 
+ * User is just using git
 
   File Name:
     main.c
